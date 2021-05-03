@@ -1,0 +1,28 @@
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\alesy\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.metr.resources
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\MetroFramework.dll
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.metr.resources
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\alesy\source\repos\Automation Task\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
